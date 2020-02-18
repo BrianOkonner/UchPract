@@ -1,0 +1,11 @@
+commit 62018b0af72aed2c2ae3a9be96c472181278191c (HEAD -> master)
+Author: Vlad <syperturbo@mail.ru>
+Date:   Tue Feb 18 10:20:45 2020 +0300
+
+    add task1/status.txt
+
+commit c62115486f6980d13801b968f14b64c72a46feca
+Author: Vlad <syperturbo@mail.ru>
+Date:   Tue Feb 18 10:17:25 2020 +0300
+
+    add .gitignore
